@@ -11,5 +11,5 @@ I'll do a list:
 
 print (tabby_pet)
 print (persian_pet)
-print (backslash_cpet)
+print (backslash_pet)
 print (fat_pet)
